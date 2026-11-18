@@ -1,0 +1,7 @@
+*.tfstate
+*.tfstate.*
+.terraform/
+local-states/
+reports/
+__pycache__/
+*.pyc
